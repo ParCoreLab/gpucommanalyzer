@@ -1,5 +1,3 @@
-# Snoopie: A Multi-GPU communication profiler
-
 ## Features:
 * [x] Track Device Initiated Remote Memory Operations
 * [X] Track Specific Kernels
