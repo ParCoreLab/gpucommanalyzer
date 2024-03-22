@@ -9,8 +9,8 @@
 
 ## Build
 
+From the root directory,
 ```bash
-$ git clone https://github.com/mktip/nvbit-profiler
 $ cd tools/mem_multigpu/ && ARCH=80 make # builds mem_multigpu.so
 ```
 
